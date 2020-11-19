@@ -1,0 +1,17 @@
+{
+    "book_name":"Java",
+    "year_of_publish":"2020",
+    "price":"899",
+    "genres":[
+      {
+        "genres_name":"Computer",
+        "genres_desc":"Its Soo Cool"
+      }
+    ],
+    "author":
+        {
+             "author_name":"D.Vanic",
+             "author_mail":"dvanic@hmail.com"
+        }
+    
+}
